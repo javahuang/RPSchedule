@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=me.hrps.schedule.spring.boot.autoconfigure.RPScheduleAutoConfigure
