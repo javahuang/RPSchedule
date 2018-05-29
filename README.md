@@ -10,6 +10,7 @@ this project provides some useful features to change the default behavior, which
 - dynamic set task parameter
 - watch the task status,such as start time,end time, if running,etc...
 
+## 特性：
 - 允许动态改变任务的 cron 表达式
 - 可以立即执行任务
 - 可以动态设置任务参数
